@@ -4,8 +4,16 @@
 Full-Stack Engineer with 10 years of production experience, a growing obsession with systems programming, and a deep interest in practical AI... the kind that runs locally and respects your data.
 
 
-> 🟢 Available for freelance work: React/Next.js, Node.js, Rust, Go.
+🟢 Available for freelance work: React/Next.js, Node.js, Rust, Go.
 
+> 10 Years of shipping production-grade work
+>
+> 20+ Client recommendations
+>
+> 20 Certifications across Google, Meta, AWS, Intel, and more
+>
+> 30 Google Skill Badges
+>
 > [Hire me on Upwork](https://upwork.com/fl/rana)  ·  [Send me an email](mailto:work@withrana.com)
 
 ## 
@@ -16,10 +24,6 @@ Full-Stack Engineer with 10 years of production experience, a growing obsession 
 **Systems:** Rust · Go  
 **Mobile/Desktop:** Swift / SwiftUI · Electron  
 **Cloud & Infra:** AWS · Google Cloud · DigitalOcean
-
-> 20 certifications across Google, Meta, AWS, Intel, and more.
-
-> 30 Google Skill badges.
 
 ## 
 
