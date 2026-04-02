@@ -1,4 +1,4 @@
-## Hi, I'm Rana 👋
+
 [![Upwork](https://img.shields.io/badge/Upwork-Available-brightgreen?style=flat&logo=upwork)](https://upwork.com/fl/rana)
 
 Full-Stack Engineer who writes React and Rust in the same week. I like the full picture... UI, backend, performance-critical systems, and AI that actually runs on your hardware. Most developers pick a lane. I haven't found a reason to.
