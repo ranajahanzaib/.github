@@ -1,18 +1,14 @@
 ## Hi, I'm Rana 👋
 [![Upwork](https://img.shields.io/badge/Upwork-Available-brightgreen?style=flat&logo=upwork)](https://upwork.com/fl/rana)
 
-Full-Stack Engineer with 10 years of production experience, a growing obsession with systems programming, and a deep interest in practical AI... the kind that runs locally and respects your data.
+Full-Stack Engineer who writes React and Rust in the same week. I like the full picture... UI, backend, performance-critical systems, and AI that actually runs on your hardware. Most developers pick a lane. I haven't found a reason to.
 
 
-🟢 Available for freelance work: React/Next.js, Node.js, Rust, Go.
+🟢 Open to work
 
-> 10 Years of shipping production-grade work
+> 10 Years of shipping production-grade work · 20+ client recommendations
 >
-> 20+ Client recommendations
->
-> 20 Certifications across Google, Meta, AWS, Intel, and more
->
-> 30 Google Skill Badges
+> 20 Certifications across Google, Meta, AWS, and Intel · 30 Google Skill Badges
 >
 > [Hire me on Upwork](https://upwork.com/fl/rana)  ·  [Send me an email](mailto:work@withrana.com)
 
