@@ -29,5 +29,3 @@ Full-Stack Engineer who writes React and Rust in the same week. I like the full 
 - Custom solutions over unnecessary dependencies
 - Tools should be owned, not rented
 - Rust and Go for anything where performance or correctness actually matters
-
-## 
