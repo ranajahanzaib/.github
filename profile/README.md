@@ -8,7 +8,7 @@ Full-Stack Engineer who writes React and Rust in the same week. I like the full 
 
 > 10 Years of shipping production-grade work · 20+ client recommendations
 >
-> 20 Certifications across Google, Meta, AWS, and Intel · 30 Google Skill Badges
+> 20+ Certifications across Google, Meta, AWS, and Intel · 30 Google Skill Badges
 >
 > [Hire me on Upwork](https://upwork.com/fl/rana)  ·  [Send me an email](mailto:work@withrana.com)
 
