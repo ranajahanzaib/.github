@@ -26,11 +26,3 @@ Full-Stack Engineer who writes React and Rust in the same week. I like the full 
 **Systems:** Rust · Go  
 **Mobile/Desktop:** Swift / SwiftUI · Electron  
 **Cloud & Infra:** AWS · Google Cloud · DigitalOcean
-## 
-
-### Philosophy
-
-- Local-first and privacy-first by default
-- Custom solutions over unnecessary dependencies
-- Tools should be owned, not rented
-- Rust and Go for anything where performance or correctness actually matters
