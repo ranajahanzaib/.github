@@ -15,7 +15,7 @@ Full-Stack Engineer who writes React and Rust in the same week. I like the full 
 ## 
 
 ### Projects
-**[WaiChat](https://github.com/ranajahanzaib/waichat)** - Private, serverless AI chat app built on Cloudflare Workers AI. Free to run, yours to own, one click to deploy.
+**[WaiChat](https://github.com/ranajahanzaib/waichat)** - Free, open-source AI chat that runs entirely on Cloudflare's free tier. 1-click deploy. Free to run, yours to own.
 
 ##
 
