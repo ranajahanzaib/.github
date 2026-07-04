@@ -1,28 +1,30 @@
-
 [![Upwork](https://img.shields.io/badge/Upwork-Available-brightgreen?style=flat&logo=upwork)](https://upwork.com/fl/rana)
 
-Full-Stack Engineer who writes React and Rust in the same week. I like the full picture... UI, backend, performance-critical systems, and AI that actually runs on your hardware. Most developers pick a lane. I haven't found a reason to.
+### Senior Full-Stack Engineer & Systems Architect
 
+I write React and Rust in the same week. I like seeing the full picture... building fast UIs, designing performance-critical backend systems, and deploying AI that actually runs efficiently on your infrastructure. Most developers pick a lane; I prefer owning the entire architecture so your product scales right the first time.
 
-🟢 Open to work
+🟢 **Open to work** · [Hire me on Upwork](https://upwork.com/fl/rana) · [Send me an email](mailto:work@withrana.com)
 
-> 10 Years of shipping production-grade work · 20+ client recommendations
->
-> 20+ Certifications across Google, Meta, AWS, and Intel · 30 Google Skill Badges
->
-> [Hire me on Upwork](https://upwork.com/fl/rana)  ·  [Send me an email](mailto:work@withrana.com)
-
-## 
-
-### Projects
-**[WaiChat](https://github.com/ranajahanzaib/waichat)** - Free, open-source AI chat that runs entirely on Cloudflare's free tier. 1-click deploy. Free to run, yours to own.
+> **10 Years** of shipping production-grade architecture
+> 
+> **20+ Certifications** across AWS, Google Cloud, Meta, and Intel
+> 
+> **30+ Google Skill Badges** validating applied, hands-on expertise
 
 ##
 
-### Skills
+### The Stack
 
-**Primary stack:** React / Next.js · Node.js · TypeScript  
-**Edge & Serverless:** Cloudflare Workers · D1 · Workers AI  
-**Systems:** Rust · Go  
-**Mobile/Desktop:** Swift / SwiftUI · Electron  
-**Cloud & Infra:** AWS · Google Cloud · DigitalOcean
+* **Frontend:** React / Next.js · TypeScript
+* **Backend & Systems:** Node.js · Rust · Go
+* **Edge, Cloud & DevOps:** Cloudflare Workers · AWS · Google Cloud (GCP) · Docker 
+* **Databases:** PostgreSQL · D1 · Redis
+* **Mobile/Desktop:** Swift / SwiftUI · Electron
+
+##
+
+### Featured Project
+
+**[WaiChat](https://github.com/ranajahanzaib/waichat)** *Free, open-source AI chat that runs entirely on Cloudflare's Edge.*
+I built this to demonstrate highly efficient, serverless AI architecture. It utilizes Cloudflare Workers and Workers AI for a 1-click deployment that is free to run and yours to own. 
