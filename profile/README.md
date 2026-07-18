@@ -4,15 +4,16 @@
 
 I write React and Rust in the same week. I like seeing the full picture... building fast UIs, designing performance-critical backend systems, and deploying AI that actually runs efficiently on your infrastructure. Most developers pick a lane; I prefer owning the entire architecture so your product scales right the first time.
 
-🟢 **Open to work** · [Hire Me on Contra](https://on.contra.com/nBnKH7)¹ or [Upwork](https://upwork.com/fl/rana) · [Send me an email](mailto:work@withrana.com)
-
-<sub>¹ Referral link</sub>
-
-> **10 Years** of shipping production-grade architecture
+> **10 Years** of Experience
 > 
 > **20+ Certifications** across AWS, Google Cloud, Meta, and Intel
 > 
 > **30+ Google Skill Badges** validating applied, hands-on expertise
+
+🟢 **Open to work** · [Hire Me on Contra](https://on.contra.com/nBnKH7)¹ or [Upwork](https://upwork.com/fl/rana) · [Send me an email](mailto:work@withrana.com)
+
+<sub>¹ Referral link</sub>
+
 
 ##
 
