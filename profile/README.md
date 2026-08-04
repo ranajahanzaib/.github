@@ -24,3 +24,10 @@ I write React and Rust in the same week. I like seeing the full picture... build
 * **Edge, Cloud & DevOps:** Cloudflare Workers · AWS · Google Cloud (GCP) · Docker 
 * **Databases:** PostgreSQL · D1 · Redis
 * **Mobile/Desktop:** Swift / SwiftUI · Electron
+
+##
+
+### Recent work
+
+| [<img src="https://github.com/user-attachments/assets/b3e03644-900d-4a3d-888d-9abeca624d1c" width="100%">](https://contra.com/p/FbRAZB2B-hybrid-b2-bb2-c-store-or-real-time-architecture-on-edge-infra) | [<img src="https://github.com/user-attachments/assets/55d02601-bf21-4452-b33d-d93bbcaa1b0b" width="100%">](https://github.com/ranajahanzaib/waichat) | [<img src="https://github.com/user-attachments/assets/96d8e1ec-f06c-4384-88cf-950f67341f9a" width="100%">](https://contra.com/community/NFjbGIi5-law-firm-client-portal-react) |
+|:---:|:---:|:---:|
