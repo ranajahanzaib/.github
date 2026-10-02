@@ -27,7 +27,7 @@ I'm a backend engineer working mostly in Rust and Go, with 10 years of full-stac
 
 ##
 
-### Things I've Built
+### Recent work
 
 * **[rico](https://github.com/ranajahanzaib/rico):** Rust CLI for bulk image conversion and background removal. Runs in CI for a production site and handles thousands of images. Built for solid backgrounds like white, not busy scenes.
 * **[WaiChat](https://github.com/ranajahanzaib/waichat):** Open-source AI chat app that runs entirely on Cloudflare Workers, D1, and Workers AI.
