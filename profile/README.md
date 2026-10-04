@@ -1,8 +1,8 @@
 [![Upwork](https://img.shields.io/badge/Upwork-Available-brightgreen?style=flat&logo=upwork)](https://upwork.com/fl/rana)
 
-### Rust & Go Engineer | Full-Stack Background
+### Senior Full-Stack Engineer | Rust • Go • Python • Node.js • React/Next.js
 
-I'm a backend engineer working mostly in Rust and Go, with 10 years of full-stack experience behind it. I build APIs, CLI tools, and edge backends on Cloudflare Workers, and I add AI features to existing products. I still write React and Next.js when a project needs the whole thing built, which means I know how backend decisions show up in the UI.
+Full-stack Engineer, 10 years in. Mostly Rust, Go, and Node.js on the backend, React and Next.js on the frontend. I build APIs, CLI tools, and Cloudflare Workers backends, and add AI features to existing products.
 
 > **10 Years** of Experience
 >
