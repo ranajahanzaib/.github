@@ -37,12 +37,23 @@ Full-stack Engineer, 10 years in. Mostly Rust, Go, and Node.js on the backend, R
 
 ### Experience
 
-**Lead Frontend Engineer, Züs (0Chain)** · Mar 2022 to Sep 2023
-Led a frontend team of 30+ across 6 products and closed 1,500+ code reviews. Took over Vult end to end, including its web, iOS, Android, Mac, and Windows apps.
+**Independent Full-Stack Engineer Engineer, Upwork** · Mar 2018 to present<br>
+- Built and shipped 15+ web apps for clients, including B2C and B2B storefronts, service portals, and internal tools. All delivered on the agreed date.
+- Ran each project solo from first scoping call to production: architecture, deployment, and maintenance after launch.
+- Worked mostly in React, Next.js, Node.js, and Firebase, with Cloudflare handling the edge and security side.
+- Kept clients updated in plain language throughout. Led to more work.
 
-**Independent Engineer, Upwork** · 2018 to present
-Built 15+ web apps for clients, from e-commerce sites to internal tools, handling scoping, deployment, and maintenance. Mostly React, Next.js, Node.js, and Cloudflare.
+**Lead Frontend Engineer, Züs (0Chain)** · Mar 2022 to Sep 2023<br>
+- Promoted to Lead Frontend Engineer three months after joining. Set technical direction for 30+ frontend engineers across 6 products.
+- Raised 1,500+ pull requests in the shared monorepo, roughly 7x the next highest contributor, and reviewed nearly all PRs from the rest of the team to keep architecture and code quality consistent.
+- Took over Vult end to end, including coordinating releases across web, iOS, Android, macOS, and Windows.
+- Started by reading other engineers' PRs to understand how the six products fit together, which led to owning product-level decisions.
 
-**Earlier freelance projects (2021)**
-* Real-time tracking system for construction crews and vehicles, using GPS and IoT badges. Go and PostgreSQL backend, React dashboard, built to handle delayed and dropped device data.
-* Sped up a PHP e-learning platform used by school districts by rewriting slow SQL queries and setting up CI/CD.
+**Lead Software Engineer, LMS Company** · Jun 2021 – Aug 2021
+- Led performance work on a legacy e-learning platform used by school districts in several US states.
+- Refactored parts of the PHP backend and rewrote slow SQL queries, which cut latency and page load times under heavy load.
+- Set up CI/CD on Bitbucket and wrote contribution guidelines so the codebase stayed maintainable after I left.
+
+**Full Stack Engineer, IoT Tracking Solutions** · Apr 2021 – Jun 2021
+- Worked on a real-time location tracking system for construction sites, covering both workers and vehicles. Data came from GPS units and IoT badges, with Link Labs hardware integrated into the pipeline.
+- Helped design the system end to end: Go and PostgreSQL on the backend, React on the frontend.
