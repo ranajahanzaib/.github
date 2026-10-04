@@ -37,7 +37,7 @@ Full-stack Engineer, 10 years in. Mostly Rust, Go, and Node.js on the backend, R
 
 ### Experience
 
-**Independent Full-Stack Engineer Engineer, Upwork** · Mar 2018 to present<br>
+**Independent Full-Stack Engineer, Upwork** · Mar 2018 to present<br>
 - Built and shipped 15+ web apps for clients, including B2C and B2B storefronts, service portals, and internal tools. All delivered on the agreed date.
 - Ran each project solo from first scoping call to production: architecture, deployment, and maintenance after launch.
 - Worked mostly in React, Next.js, Node.js, and Firebase, with Cloudflare handling the edge and security side.
