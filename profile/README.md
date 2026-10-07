@@ -27,11 +27,22 @@ Full-stack Engineer, 10 years in. Mostly Rust, Go, and Node.js on the backend, R
 
 ##
 
-### Recent work
+### Systems & Backend Projects
 
 * **[rico](https://github.com/ranajahanzaib/rico):** Rust CLI for bulk image conversion and background removal. Runs in CI for a production site and handles thousands of images. Built for solid backgrounds like white, not busy scenes.
 * **[WaiChat](https://github.com/ranajahanzaib/waichat):** Open-source AI chat app that runs entirely on Cloudflare Workers, D1, and Workers AI.
 * Building **LLM gateway:** OpenAI-compatible gateway in Rust on Cloudflare Workers.
+
+### Full-Stack Web Projects
+
+Built with React, Next.js, TypeScript, and Tailwind CSS in a Turborepo monorepo, deployed on Cloudflare Workers. Live demos below.
+
+**Storefronts:** [Footwear Shop](https://ferrous-footwear.work.withrana.com/), [Clothing Store](https://meridian-clothing-store.work.withrana.com), [Kidswear Shop](https://marlowe-n-finch-kidswear-store.work.withrana.com), [Sunglasses Store](https://sunspot.work.withrana.com), [Furniture Shop](https://atelier-grove.work.withrana.com), [Handbags Store](https://maison-ore.work.withrana.com), [Sana Clothing Shop](https://maison-sana.work.withrana.com), [Elemara Clothing Store](https://elemara.work.withrana.com), [LUME Cosmetics](https://lume.work.withrana.com), [Hair Oil & Serum Store](https://verre-or.work.withrana.com)
+
+**Websites:** [Seaside Luxury Hotel](https://marejada-seaside-hotel.work.withrana.com), [Y2K Editorial Fashion](https://y2k-editorial-fashion.work.withrana.com), [Art Gallery](https://solstice-gallery.work.withrana.com), [Therapy Practice](https://solace-collective-landing-page.preview.withrana.com/)
+
+**Landing Pages:** [AI Workflow Automation](https://autoloom-landing-page.preview.withrana.com/), [Footwear Brand](https://roam-landing-page.preview.withrana.com/), [Book Sales](https://lucent-landing-page.preview.withrana.com/), [Dental Clinic](https://meridian-dental-landing-page.preview.withrana.com), [Link in Bio Tool](https://perch-landing-page.preview.withrana.com/), [Creative Agency](https://ember-studio-landing-page.preview.withrana.com/), [Design Agency](https://fernway-landing-page.preview.withrana.com/), [Concept Device](http://pixelmint-landing-page.preview.withrana.com/)
+
 
 ##
 
