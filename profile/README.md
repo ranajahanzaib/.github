@@ -19,7 +19,7 @@ Full-stack Engineer, 5+ years in. Mostly Rust, Go, and Node.js on the backend, R
 ### The Stack
 
 * **Backend & Systems:** Rust · Go · Node.js
-* **Edge, Cloud & DevOps:** Cloudflare Workers · WebAssembly · AWS · Google Cloud (GCP) · Docker
+* **Edge, Cloud & DevOps:** Cloudflare Workers · AWS · Firebase · Google Cloud (GCP) · Docker
 * **AI Integration:** OpenAI-compatible APIs · Workers AI · LLM gateways
 * **Databases:** PostgreSQL · D1 · Redis
 * **Frontend:** React / Next.js · TypeScript
