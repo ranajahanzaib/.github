@@ -2,7 +2,7 @@
 
 ### Senior Full-Stack Engineer | Rust • Go • Python • Node.js • React/Next.js
 
-Full-stack Engineer, 10 years in. Mostly Rust, Go, and Node.js on the backend, React and Next.js on the frontend. I build APIs, CLI tools, and Cloudflare Workers backends, and add AI features to existing products.
+Full-stack Engineer, 5+ years in. Mostly Rust, Go, and Node.js on the backend, React and Next.js on the frontend. I build APIs, CLI tools, and Cloudflare Workers backends, and add AI features to existing products.
 
 > **10 Years** of Experience
 >
