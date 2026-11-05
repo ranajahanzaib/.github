@@ -54,11 +54,10 @@ Built with React, Next.js, TypeScript, and Tailwind CSS in a Turborepo monorepo,
 
 ### Experience
 
-**Independent Full-Stack Engineer, Upwork** · Mar 2018 to present<br>
-- Built and shipped 15+ web apps for clients, including B2C and B2B storefronts, service portals, and internal tools. All delivered on the agreed date.
-- Ran each project solo from first scoping call to production: architecture, deployment, and maintenance after launch.
-- Worked mostly in React, Next.js, Node.js, and Firebase, with Cloudflare handling the edge and security side.
-- Kept clients updated in plain language throughout. Led to more work.
+**Independent Full-Stack Engineer** · Dec 2023 - 2026<br>
+- Designed and built 15+ web apps and sites, spanning client projects, self-initiated builds, including storefronts, brand and landing pages, and internal business tools.
+- Built primarily with React, Next.js, TypeScript, Node.js, and Rust, using Firebase, GCP, Cloudflare (Workers, D1, R2) for hosting, edge delivery, and security.
+- Managed communication, milestones, and delivery directly with clients, translating requirements into maintainable software.
 
 **Lead Frontend Engineer, Züs (0Chain)** · Mar 2022 to Sep 2023<br>
 - Promoted to Lead Frontend Engineer three months after joining. Set technical direction for 30+ frontend engineers across 6 products.
