@@ -23,14 +23,41 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **Databases:** PostgreSQL · D1 · Redis
 * **Frontend:** React / Next.js · TypeScript
 * **Mobile/Desktop:** Swift / SwiftUI · Electron
+* **Testing & Auditing:** Deterministic replay · Fault injection · Regression checks · CI reports
 
 ##
 
 ### Systems & Backend Projects
 
+**Core Projects**
+
 * **[rico](https://github.com/ranajahanzaib/rico):** Rust CLI for bulk image conversion and background removal. Runs in CI for a production site and handles thousands of images. Built for solid backgrounds like white, not busy scenes.
 * **[WaiChat](https://github.com/ranajahanzaib/waichat):** Open-source AI chat app that runs entirely on Cloudflare Workers, D1, and Workers AI.
+* **[workers-aide](https://github.com/ranajahanzaib/workers-aide):** Open-source business AI agents powered by Cloudflare. Deploy to your own free Cloudflare account, configure your business, and automate customer interactions.
 * Building **LLM gateway:** OpenAI-compatible gateway in Rust on Cloudflare Workers.
+
+**Cloudflare & Backend Reliability Tooling**
+
+* **[d1-preflight](https://github.com/ranajahanzaib/d1-preflight):** Offline Rust CLI that analyzes Cloudflare D1 migrations against disposable SQLite snapshots. Detects schema risks, data loss, integrity failures, and query plan regressions.
+* **[cf-quota-lab](https://github.com/ranajahanzaib/cf-quota-lab):** Tests Cloudflare Workers resource budgets before production. Runs representative local workloads, measures D1 and KV usage, projects consumption, and tests dependency failures with deterministic fault injection. No Cloudflare credentials needed.
+* **[tenant-fence](https://github.com/ranajahanzaib/tenant-fence):** Tests tenant isolation in multi-tenant APIs using verified fixtures, safe mutation checks, and reproducible reports.
+* **[firestore-listener-ledger](https://github.com/ranajahanzaib/firestore-listener-ledger):** Local-first Firestore listener profiler. Analyzes subscription behavior and estimates read usage with explicit assumptions.
+
+**Blockchain & Payments QA**
+
+* **[bitcoin-rbf-settlement-qa](https://github.com/ranajahanzaib/bitcoin-rbf-settlement-qa):** Local Go QA framework for Bitcoin merchant settlement. Tests real RBF replacements, confirmations, and chain reorganizations on Bitcoin Core regtest.
+* **[ledger-to-chain-reconciler](https://github.com/ranajahanzaib/ledger-to-chain-reconciler):** Read-only Go CLI that reconciles deposit ledgers with ERC-20 transfers, detects discrepancies, and generates evidence-backed audit reports.
+* **[indexer-replay-oracle](https://github.com/ranajahanzaib/indexer-replay-oracle):** Deterministic replay testing for blockchain event consumers, covering duplicate delivery, crash recovery, and SQLite/PostgreSQL state comparison.
+* **[event-abi-guard](https://github.com/ranajahanzaib/event-abi-guard):** Offline Rust CLI that checks smart contract event ABI changes against declared consumer expectations. Detects signature and indexed-layout breaks, with JSON, Markdown, and GitHub Actions reports.
+
+**Scientific Data & Simulation Audits**
+
+* **[conservation-ci](https://github.com/ranajahanzaib/conservation-ci):** Audits physics simulation trajectories against declared conservation laws. Local Rust CLI, API, and React dashboard with CI-ready reports.
+* **[crater-seam](https://github.com/ranajahanzaib/crater-seam):** Audits and visualizes coordinate convention issues in planetary datasets. Rust CLI and local web app for Parquet/CSV, normalization, importer simulations, and regression checks.
+* **[marsquake-mapcheck](https://github.com/ranajahanzaib/marsquake-mapcheck):** Provenance-aware audit of placeholder coordinates in NASA InSight's Marsquake catalog, with interactive maps comparing naive plotting to audited locations.
+* **[transit-shortcut](https://github.com/ranajahanzaib/transit-shortcut):** Audits dataset shortcuts in exoplanet transit classification with reproducible metadata and raw-photometry baselines.
+* **[reaction-variance](https://github.com/ranajahanzaib/reaction-variance):** Explores how reported yields vary across matched published C-N coupling experiments, with transparent comparisons of recorded conditions.
+
 
 ### Full-Stack Web Projects
 
