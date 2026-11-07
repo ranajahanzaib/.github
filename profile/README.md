@@ -1,4 +1,4 @@
-[![Upwork](https://img.shields.io/badge/Upwork-Available-brightgreen?style=flat&logo=upwork)](https://upwork.com/fl/rana)
+🟢 **Open to work**
 
 ### Senior Full-Stack Engineer | Rust • Go • Python • Node.js • React/Next.js
 
@@ -8,10 +8,6 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 > **20+ Certifications** across AWS, Google Cloud, Meta, and Intel
 >
 > **30+ Google Skill Badges** validating applied, hands-on expertise
-
-🟢 **Open to work** · [Hire Me on Contra](https://on.contra.com/nBnKH7)¹ / [Upwork](https://upwork.com/fl/rana)
-
-<sub>¹ Referral link</sub>
 
 ##
 
