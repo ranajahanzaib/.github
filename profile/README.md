@@ -2,7 +2,7 @@
 
 ### Senior Full-Stack Engineer | Rust • Go • Python • Node.js • React/Next.js
 
-Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next.js on the frontend. I build APIs, CLI tools, and Cloudflare Workers backends, add AI features to existing products, and write open source audit and QA tooling for data pipelines, blockchain systems, and scientific datasets.
+Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next.js on the frontend. I build APIs, CLI tools, and Cloudflare Workers backends, add AI features to existing products, and write open source audit and QA tooling for data pipelines, blockchain systems, AI agents, security workflows, and scientific datasets.
 
 >
 > **20+ Certifications** across AWS, Google Cloud, Meta, and Intel
@@ -15,11 +15,11 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 
 * **Backend & Systems:** Rust · Go · Python · Node.js
 * **Edge, Cloud & DevOps:** Cloudflare · AWS · Firebase · Google Cloud (GCP) · Docker
-* **AI Integration:** OpenAI-compatible APIs · Workers AI · LLM gateways
+* **AI Integration:** OpenAI-compatible APIs · Workers AI · LLM gateways · Ollama · MLX · llama.cpp
 * **Databases:** PostgreSQL · D1 · Redis
 * **Frontend:** React / Next.js · TypeScript
 * **Mobile/Desktop:** Swift / SwiftUI · Electron
-* **Testing & Auditing:** Deterministic replay · Fault injection · Regression checks · CI reports
+* **Testing & Auditing:** Deterministic replay · Fault injection · Regression checks · Security conformance testing · LLM and agent evaluation · CI reports
 
 ##
 
@@ -32,12 +32,21 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **[workers-aide](https://github.com/ranajahanzaib/workers-aide):** Open-source business AI agents powered by Cloudflare. Deploy to your own free Cloudflare account, configure your business, and automate customer interactions.
 * Building **LLM gateway:** OpenAI-compatible gateway in Rust on Cloudflare Workers.
 
+**AI Agent & LLM Evaluation**
+
+* **[agent-tool-response-fault-tester](https://github.com/ranajahanzaib/agent-tool-response-fault-tester):** Python, local-first tool for testing how AI agents handle faulty tool responses through scripted and Ollama replays.
+* **[agent-tool-selection-tester](https://github.com/ranajahanzaib/agent-tool-selection-tester):** Python, evaluates how reliably language models select and use tools as names, descriptions, schemas, and ordering change.
+* **[finetuning-regression-tester](https://github.com/ranajahanzaib/finetuning-regression-tester):** Python, evaluates fine-tuned language models for task gains and behavioral regressions with paired tests.
+* **[llm-chat-template-compatibility](https://github.com/ranajahanzaib/llm-chat-template-compatibility):** Python, investigates chat template, tokenization, and inference differences across local LLM runtimes.
+
+
 **Cloudflare & Backend Reliability Tooling**
 
 * **[d1-preflight](https://github.com/ranajahanzaib/d1-preflight):** Offline Rust CLI that analyzes Cloudflare D1 migrations against disposable SQLite snapshots. Detects schema risks, data loss, integrity failures, and query plan regressions.
 * **[cf-quota-lab](https://github.com/ranajahanzaib/cf-quota-lab):** Tests Cloudflare Workers resource budgets before production. Runs representative local workloads, measures D1 and KV usage, projects consumption, and tests dependency failures with deterministic fault injection. No Cloudflare credentials needed.
 * **[tenant-fence](https://github.com/ranajahanzaib/tenant-fence):** Tests tenant isolation in multi-tenant APIs using verified fixtures, safe mutation checks, and reproducible reports.
 * **[firestore-listener-ledger](https://github.com/ranajahanzaib/firestore-listener-ledger):** Local-first Firestore listener profiler. Analyzes subscription behavior and estimates read usage with explicit assumptions.
+
 
 **Blockchain & Payments QA**
 
@@ -46,6 +55,12 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **[indexer-replay-oracle](https://github.com/ranajahanzaib/indexer-replay-oracle):** Deterministic replay testing for blockchain event consumers, covering duplicate delivery, crash recovery, and SQLite/PostgreSQL state comparison.
 * **[event-abi-guard](https://github.com/ranajahanzaib/event-abi-guard):** Offline Rust CLI that checks smart contract event ABI changes against declared consumer expectations. Detects signature and indexed-layout breaks, with JSON, Markdown, and GitHub Actions reports.
 
+
+**Security & Infrastructure Auditing**
+
+* **[security-assessment-coverage-reporter](https://github.com/ranajahanzaib/security-assessment-coverage-reporter):** Offline Rust CLI for auditing security assessment coverage from Nmap, OWASP ZAP, and Nuclei artifacts.
+* **[webhook-security-tester](https://github.com/ranajahanzaib/webhook-security-tester):** Rust, local conformance testing for webhook signature validation, replay protection, and duplicate processing.
+* **[network-exposure-policy-checker](https://github.com/ranajahanzaib/network-exposure-policy-checker):** Rust CLI that compares Docker Compose network exposure policies with configuration and TCP probe evidence.
 **Scientific Data & Simulation Audits**
 
 * **[conservation-ci](https://github.com/ranajahanzaib/conservation-ci):** Audits physics simulation trajectories against declared conservation laws. Local Rust CLI, API, and React dashboard with CI-ready reports.
