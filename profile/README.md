@@ -40,14 +40,6 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **[llm-chat-template-compatibility](https://github.com/ranajahanzaib/llm-chat-template-compatibility):** Python, investigates chat template, tokenization, and inference differences across local LLM runtimes.
 
 
-**Cloudflare & Backend Reliability Tooling**
-
-* **[d1-preflight](https://github.com/ranajahanzaib/d1-preflight):** Offline Rust CLI that analyzes Cloudflare D1 migrations against disposable SQLite snapshots. Detects schema risks, data loss, integrity failures, and query plan regressions.
-* **[cf-quota-lab](https://github.com/ranajahanzaib/cf-quota-lab):** Tests Cloudflare Workers resource budgets before production. Runs representative local workloads, measures D1 and KV usage, projects consumption, and tests dependency failures with deterministic fault injection. No Cloudflare credentials needed.
-* **[tenant-fence](https://github.com/ranajahanzaib/tenant-fence):** Tests tenant isolation in multi-tenant APIs using verified fixtures, safe mutation checks, and reproducible reports.
-* **[firestore-listener-ledger](https://github.com/ranajahanzaib/firestore-listener-ledger):** Local-first Firestore listener profiler. Analyzes subscription behavior and estimates read usage with explicit assumptions.
-
-
 **Blockchain & Payments QA**
 
 * **[bitcoin-rbf-settlement-qa](https://github.com/ranajahanzaib/bitcoin-rbf-settlement-qa):** Local Go QA framework for Bitcoin merchant settlement. Tests real RBF replacements, confirmations, and chain reorganizations on Bitcoin Core regtest.
@@ -56,11 +48,21 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **[event-abi-guard](https://github.com/ranajahanzaib/event-abi-guard):** Offline Rust CLI that checks smart contract event ABI changes against declared consumer expectations. Detects signature and indexed-layout breaks, with JSON, Markdown, and GitHub Actions reports.
 
 
+
+**Cloudflare & Backend Reliability Tooling**
+
+* **[d1-preflight](https://github.com/ranajahanzaib/d1-preflight):** Offline Rust CLI that analyzes Cloudflare D1 migrations against disposable SQLite snapshots. Detects schema risks, data loss, integrity failures, and query plan regressions.
+* **[cf-quota-lab](https://github.com/ranajahanzaib/cf-quota-lab):** Tests Cloudflare Workers resource budgets before production. Runs representative local workloads, measures D1 and KV usage, projects consumption, and tests dependency failures with deterministic fault injection. No Cloudflare credentials needed.
+* **[tenant-fence](https://github.com/ranajahanzaib/tenant-fence):** Tests tenant isolation in multi-tenant APIs using verified fixtures, safe mutation checks, and reproducible reports.
+* **[firestore-listener-ledger](https://github.com/ranajahanzaib/firestore-listener-ledger):** Local-first Firestore listener profiler. Analyzes subscription behavior and estimates read usage with explicit assumptions.
+
+
 **Security & Infrastructure Auditing**
 
 * **[security-assessment-coverage-reporter](https://github.com/ranajahanzaib/security-assessment-coverage-reporter):** Offline Rust CLI for auditing security assessment coverage from Nmap, OWASP ZAP, and Nuclei artifacts.
 * **[webhook-security-tester](https://github.com/ranajahanzaib/webhook-security-tester):** Rust, local conformance testing for webhook signature validation, replay protection, and duplicate processing.
 * **[network-exposure-policy-checker](https://github.com/ranajahanzaib/network-exposure-policy-checker):** Rust CLI that compares Docker Compose network exposure policies with configuration and TCP probe evidence.
+
 **Scientific Data & Simulation Audits**
 
 * **[conservation-ci](https://github.com/ranajahanzaib/conservation-ci):** Audits physics simulation trajectories against declared conservation laws. Local Rust CLI, API, and React dashboard with CI-ready reports.
@@ -69,6 +71,7 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **[transit-shortcut](https://github.com/ranajahanzaib/transit-shortcut):** Audits dataset shortcuts in exoplanet transit classification with reproducible metadata and raw-photometry baselines.
 * **[reaction-variance](https://github.com/ranajahanzaib/reaction-variance):** Explores how reported yields vary across matched published C-N coupling experiments, with transparent comparisons of recorded conditions.
 
+##
 
 ### Full-Stack Web Projects
 
