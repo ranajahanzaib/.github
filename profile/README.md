@@ -2,7 +2,7 @@
 
 ### Senior Full-Stack Engineer | Rust • Go • Python • Node.js • React/Next.js
 
-Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next.js on the frontend. I build APIs, CLI tools, and Cloudflare Workers backends, add AI features to existing products, and write open source audit and QA tooling for data pipelines, blockchain systems, AI agents, ML systems, security workflows, and scientific datasets.
+Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next.js on the frontend. I build APIs, CLI tools, and Cloudflare Workers backends, add AI features to existing products, and write open source audit and QA tooling for PostgreSQL and backend reliability, billing and payments, data pipelines, blockchain systems, AI agents, ML systems, security workflows, and scientific datasets.
 
 >
 > **20+ Certifications** across AWS, Google Cloud, Meta, and Intel
@@ -14,13 +14,13 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 ### The Stack
 
 * **Backend & Systems:** Rust · Go · Python · FastAPI · Node.js
-* **Edge, Cloud & DevOps:** Cloudflare · AWS · Firebase · Google Cloud (GCP) · Docker
-* **AI Integration:** OpenAI-compatible APIs · Workers AI · LLM gateways · LangGraph · Ollama · MLX · llama.cpp · LoRA fine-tuning
-* **Machine Learning:** PyTorch · LightGBM · Time-series forecasting · Learning-to-rank · Anomaly detection
-* **Databases:** PostgreSQL · D1 · Redis · SQLite
+* **Edge, Cloud & DevOps:** Cloudflare · AWS · Firebase · Google Cloud (GCP) · Docker · OpenTelemetry · Grafana · Prometheus
+* **AI Integration:** OpenAI-compatible APIs · Workers AI · LLM gateways · LangGraph · RAG · Ollama · MLX · llama.cpp · LoRA fine-tuning
+* **Machine Learning:** PyTorch · LightGBM · scikit-learn · ONNX · Time-series forecasting · Learning-to-rank · Anomaly detection
+* **Databases & Messaging:** PostgreSQL · D1 · Redis · SQLite · NATS JetStream · S3 / MinIO
 * **Frontend:** React / Next.js · TypeScript
 * **Mobile/Desktop:** Swift / SwiftUI · Electron
-* **Testing & Auditing:** Deterministic replay · Fault injection · Regression checks · Security conformance testing · LLM and agent evaluation · Cedar policy enforcement · CI reports
+* **Testing & Auditing:** Deterministic replay · Fault injection · Regression checks · Contract testing · Concurrency testing · Security conformance testing · LLM and agent evaluation · Cedar policy enforcement · CI reports
 
 ##
 
@@ -39,6 +39,7 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **[ecommerce-support-automation](https://github.com/ranajahanzaib/ecommerce-support-automation):** Python, policy-grounded ecommerce support ticket investigation and human-in-the-loop refund automation.
 * **[ai-agent-permission-enforcer](https://github.com/ranajahanzaib/ai-agent-permission-enforcer):** Rust, trusted authorization gateway and Cedar policy engine for AI agent tool calls.
 * **[ai-workflow-cost-analyzer](https://github.com/ranajahanzaib/ai-workflow-cost-analyzer):** Python, local economics engine to measure the true cost of verified AI workflow outcomes, retries, and human labor.
+* **[multi-tenant-rag](https://github.com/ranajahanzaib/multi-tenant-rag):** Python, production reference for multi-tenant, permission-aware RAG using PostgreSQL row-level security, FastAPI, and React.
 
 **Local LLM Fine-Tuning & Inference**
 
@@ -52,26 +53,45 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **[agent-tool-selection-tester](https://github.com/ranajahanzaib/agent-tool-selection-tester):** Python, evaluates how reliably language models select and use tools as names, descriptions, schemas, and ordering change.
 * **[finetuning-regression-tester](https://github.com/ranajahanzaib/finetuning-regression-tester):** Python, evaluates fine-tuned language models for task gains and behavioral regressions with paired tests.
 * **[llm-chat-template-compatibility](https://github.com/ranajahanzaib/llm-chat-template-compatibility):** Python, investigates chat template, tokenization, and inference differences across local LLM runtimes.
+* **[llm-fallback-compatibility-tester](https://github.com/ranajahanzaib/llm-fallback-compatibility-tester):** Rust, automated contract testing to ensure LLM provider failover preserves application behavior and safety.
 
 **Machine Learning & Data Science**
 
 * **[retail-demand-forecasting](https://github.com/ranajahanzaib/retail-demand-forecasting):** Python, production-grade retail demand forecasting and model reliability laboratory with FastAPI and React. Covers LightGBM, time-series modeling, and backtesting.
 * **[marketplace-learning-to-rank](https://github.com/ranajahanzaib/marketplace-learning-to-rank):** Python, local learning-to-rank lab comparing rules, semantic search, and LightGBM LambdaMART on two-sided marketplace discovery.
 * **[industrial-visual-defect-detection](https://github.com/ranajahanzaib/industrial-visual-defect-detection):** Python, unsupervised visual defect detection and inspection workbench for industrial QA/QC, built with PyTorch and FastAPI.
+* **[cross-runtime-inference-tester](https://github.com/ranajahanzaib/cross-runtime-inference-tester):** TypeScript, verifies ML inference parity, numerical drift, and latency across Python and browser ONNX runtimes.
 
-**Blockchain & Payments QA**
+**Payments, Billing & Blockchain QA**
 
+* **[usage-based-billing](https://github.com/ranajahanzaib/usage-based-billing):** Go, exact-decimal usage-based billing engine with proration, graduated tiers, storage accrual, and a PostgreSQL schema.
+* **[payment-reconciliation](https://github.com/ranajahanzaib/payment-reconciliation):** Go, account-scoped payment reconciliation with provider snapshot simulation, deterministic mismatch detection, and JSON/CSV/HTML reporting.
+* **[invoice-discrepancy-detector](https://github.com/ranajahanzaib/invoice-discrepancy-detector):** Python, local-first invoice reconciliation and discrepancy detection tool with deterministic matching.
 * **[bitcoin-rbf-settlement-qa](https://github.com/ranajahanzaib/bitcoin-rbf-settlement-qa):** Local Go QA framework for Bitcoin merchant settlement. Tests real RBF replacements, confirmations, and chain reorganizations on Bitcoin Core regtest.
 * **[ledger-to-chain-reconciler](https://github.com/ranajahanzaib/ledger-to-chain-reconciler):** Read-only Go CLI that reconciles deposit ledgers with ERC-20 transfers, detects discrepancies, and generates evidence-backed audit reports.
-* **[invoice-discrepancy-detector](https://github.com/ranajahanzaib/invoice-discrepancy-detector):** Python, local-first invoice reconciliation and discrepancy detection tool with deterministic matching.
 * **[indexer-replay-oracle](https://github.com/ranajahanzaib/indexer-replay-oracle):** Deterministic replay testing for blockchain event consumers, covering duplicate delivery, crash recovery, and SQLite/PostgreSQL state comparison.
 * **[event-abi-guard](https://github.com/ranajahanzaib/event-abi-guard):** Offline Rust CLI that checks smart contract event ABI changes against declared consumer expectations. Detects signature and indexed-layout breaks, with JSON, Markdown, and GitHub Actions reports.
+
+**Distributed Systems & SaaS Backend**
+
+* **[background-job-recovery](https://github.com/ranajahanzaib/background-job-recovery):** Go reference architecture for crash-safe background job recovery using PostgreSQL fencing tokens, a transactional outbox, and NATS JetStream.
+* **[distributed-request-debugger](https://github.com/ranajahanzaib/distributed-request-debugger):** Go, distributed request debugging and latency root-cause analysis with OpenTelemetry and Tempo.
+* **[enterprise-user-provisioning](https://github.com/ranajahanzaib/enterprise-user-provisioning):** Go, multi-tenant SCIM v2 user provisioning and OIDC authentication service built on PostgreSQL.
+* **[customer-data-export](https://github.com/ranajahanzaib/customer-data-export):** Go, tenant-scoped customer data export service with PostgreSQL job queuing, S3 storage, and offline archive verification.
+
+**PostgreSQL & Database Reliability**
+
+* **[zero-downtime-db-migrations](https://github.com/ranajahanzaib/zero-downtime-db-migrations):** Go, production-grade zero-downtime PostgreSQL schema migrations with phased rollouts, backfills, and verification.
+* **[postgres-performance-analyzer](https://github.com/ranajahanzaib/postgres-performance-analyzer):** Rust, evidence-backed PostgreSQL performance investigations. Inspects query statistics, diagnoses EXPLAIN plans, tracks lock contention, and compares workload regressions.
+* **[postgres-concurrency-tester](https://github.com/ranajahanzaib/postgres-concurrency-tester):** Rust, controlled PostgreSQL concurrency experiments to detect contention, lock waits, and pool starvation before production.
+* **[postgres-backup-restore-checker](https://github.com/ranajahanzaib/postgres-backup-restore-checker):** Rust CLI that tests and validates PostgreSQL logical dumps inside disposable Docker containers.
 
 **Cloudflare & Backend Reliability Tooling**
 
 * **[d1-preflight](https://github.com/ranajahanzaib/d1-preflight):** Offline Rust CLI that analyzes Cloudflare D1 migrations against disposable SQLite snapshots. Detects schema risks, data loss, integrity failures, and query plan regressions.
 * **[cf-quota-lab](https://github.com/ranajahanzaib/cf-quota-lab):** Tests Cloudflare Workers resource budgets before production. Runs representative local workloads, measures D1 and KV usage, projects consumption, and tests dependency failures with deterministic fault injection. No Cloudflare credentials needed.
 * **[tenant-fence](https://github.com/ranajahanzaib/tenant-fence):** Tests tenant isolation in multi-tenant APIs using verified fixtures, safe mutation checks, and reproducible reports.
+* **[api-backward-compatibility-tester](https://github.com/ranajahanzaib/api-backward-compatibility-tester):** Rust, catches breaking API changes before production with OpenAPI contract diffing and scenario replay.
 * **[firestore-listener-ledger](https://github.com/ranajahanzaib/firestore-listener-ledger):** Local-first Firestore listener profiler. Analyzes subscription behavior and estimates read usage with explicit assumptions.
 
 **Security & Infrastructure Auditing**
@@ -79,6 +99,7 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 * **[security-assessment-coverage-reporter](https://github.com/ranajahanzaib/security-assessment-coverage-reporter):** Offline Rust CLI for auditing security assessment coverage from Nmap, OWASP ZAP, and Nuclei artifacts.
 * **[webhook-security-tester](https://github.com/ranajahanzaib/webhook-security-tester):** Rust, local conformance testing for webhook signature validation, replay protection, and duplicate processing.
 * **[network-exposure-policy-checker](https://github.com/ranajahanzaib/network-exposure-policy-checker):** Rust CLI that compares Docker Compose network exposure policies with configuration and TCP probe evidence.
+* **[ai-media-provenance-checker](https://github.com/ranajahanzaib/ai-media-provenance-checker):** Rust CLI that checks whether embedded C2PA Content Credentials survive image processing. Runs the same JPEG/PNG pipeline as an unsigned raw branch and a provenance-aware reissue branch, then validates each output and its parent ingredient with the official C2PA SDK. Gives CI-ready evidence of where credentials get dropped.
 
 **Scientific Data & Simulation Audits**
 
