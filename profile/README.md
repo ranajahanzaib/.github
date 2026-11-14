@@ -28,9 +28,12 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 ### Experience
 
 **Independent Full-Stack Engineer** · Dec 2023 - 2026<br>
-- Designed and built 15+ web apps and sites, spanning client projects, self-initiated builds, including storefronts, brand and landing pages, and internal business tools.
-- Built primarily with React, Next.js, TypeScript, Node.js, and Rust, using Firebase, GCP, Cloudflare (Workers, D1, R2) for hosting, edge delivery, and security.
-- Managed communication, milestones, and delivery directly with clients, translating requirements into maintainable software.
+- Published 45+ open-source projects in Rust, Go, and Python: audit and QA tooling for PostgreSQL, Cloudflare, payments and billing, blockchain systems, AI agents, ML pipelines, and scientific datasets.
+- Designed and built 60+ websites, storefronts, and landing pages across client work and self-initiated builds, including brand sites, ecommerce, and internal business tools.
+- Built production-grade backend systems, including zero-downtime database migrations, crash-safe background job recovery, multi-tenant SCIM/OIDC provisioning, and usage-based billing engines.
+- Shipped AI systems end to end, from an open-source AI chat app on Cloudflare Workers to local LLM fine-tuning pipelines on Apple Silicon, agent authorization with Cedar policies, and permission-aware RAG.
+- Built a Rust image conversion CLI that runs CI for a production site, handling thousands of images.
+- Worked across React, Next.js, TypeScript, Node.js, Rust, Go, and Python, deploying on Cloudflare (Workers, D1, R2), AWS, Firebase, and GCP.
 
 **Lead Frontend Engineer, Züs (0Chain)** · Mar 2022 to Sep 2023<br>
 - Promoted to Lead Frontend Engineer three months after joining. Set technical direction for 30+ frontend engineers across 6 products.
