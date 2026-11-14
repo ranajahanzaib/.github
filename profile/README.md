@@ -24,6 +24,31 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 
 ##
 
+
+### Experience
+
+**Independent Full-Stack Engineer** · Dec 2023 - 2026<br>
+- Designed and built 15+ web apps and sites, spanning client projects, self-initiated builds, including storefronts, brand and landing pages, and internal business tools.
+- Built primarily with React, Next.js, TypeScript, Node.js, and Rust, using Firebase, GCP, Cloudflare (Workers, D1, R2) for hosting, edge delivery, and security.
+- Managed communication, milestones, and delivery directly with clients, translating requirements into maintainable software.
+
+**Lead Frontend Engineer, Züs (0Chain)** · Mar 2022 to Sep 2023<br>
+- Promoted to Lead Frontend Engineer three months after joining. Set technical direction for 30+ frontend engineers across 6 products.
+- Raised 1,500+ pull requests in the shared monorepo, roughly 7x the next highest contributor, and reviewed nearly all PRs from the rest of the team to keep architecture and code quality consistent.
+- Took over Vult end to end, including coordinating releases across web, iOS, Android, macOS, and Windows.
+- Started by reading other engineers' PRs to understand how the six products fit together, which led to owning product-level decisions.
+
+**Lead Software Engineer, LMS Company** · Jun 2021 – Aug 2021
+- Led performance work on a legacy e-learning platform used by school districts in several US states.
+- Refactored parts of the PHP backend and rewrote slow SQL queries, which cut latency and page load times under heavy load.
+- Set up CI/CD on Bitbucket and wrote contribution guidelines so the codebase stayed maintainable after I left.
+
+**Full Stack Engineer, IoT Tracking Solutions** · Apr 2021 – Jun 2021
+- Worked on a real-time location tracking system for construction sites, covering both workers and vehicles. Data came from GPS units and IoT badges, with Link Labs hardware integrated into the pipeline.
+- Helped design the system end to end: Go and PostgreSQL on the backend, React on the frontend.
+
+##
+
 ### Systems & Backend Projects
 
 **Core Projects**
@@ -128,26 +153,3 @@ Built with React, Next.js, TypeScript, and Tailwind CSS in a Turborepo monorepo,
 
 **Websites:** [Seaside Luxury Hotel](https://marejada-seaside-hotel.work.withrana.com) · [Y2K Editorial Fashion](https://y2k-editorial-fashion.work.withrana.com) · [Art Gallery](https://solstice-gallery.work.withrana.com) · [Therapy Practice](https://solace-collective-landing-page.preview.withrana.com/)
 
-##
-
-### Experience
-
-**Independent Full-Stack Engineer** · Dec 2023 - 2026<br>
-- Designed and built 15+ web apps and sites, spanning client projects, self-initiated builds, including storefronts, brand and landing pages, and internal business tools.
-- Built primarily with React, Next.js, TypeScript, Node.js, and Rust, using Firebase, GCP, Cloudflare (Workers, D1, R2) for hosting, edge delivery, and security.
-- Managed communication, milestones, and delivery directly with clients, translating requirements into maintainable software.
-
-**Lead Frontend Engineer, Züs (0Chain)** · Mar 2022 to Sep 2023<br>
-- Promoted to Lead Frontend Engineer three months after joining. Set technical direction for 30+ frontend engineers across 6 products.
-- Raised 1,500+ pull requests in the shared monorepo, roughly 7x the next highest contributor, and reviewed nearly all PRs from the rest of the team to keep architecture and code quality consistent.
-- Took over Vult end to end, including coordinating releases across web, iOS, Android, macOS, and Windows.
-- Started by reading other engineers' PRs to understand how the six products fit together, which led to owning product-level decisions.
-
-**Lead Software Engineer, LMS Company** · Jun 2021 – Aug 2021
-- Led performance work on a legacy e-learning platform used by school districts in several US states.
-- Refactored parts of the PHP backend and rewrote slow SQL queries, which cut latency and page load times under heavy load.
-- Set up CI/CD on Bitbucket and wrote contribution guidelines so the codebase stayed maintainable after I left.
-
-**Full Stack Engineer, IoT Tracking Solutions** · Apr 2021 – Jun 2021
-- Worked on a real-time location tracking system for construction sites, covering both workers and vehicles. Data came from GPS units and IoT badges, with Link Labs hardware integrated into the pipeline.
-- Helped design the system end to end: Go and PostgreSQL on the backend, React on the frontend.
