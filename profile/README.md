@@ -28,11 +28,11 @@ Full-Stack Engineer. Mostly Rust, Go, and Node.js on the backend, React and Next
 ### Experience
 
 **Independent Full-Stack Engineer** · Dec 2023 - 2026<br>
-- Published 45+ open-source projects in Rust, Go, and Python: audit and QA tooling for PostgreSQL, Cloudflare, payments and billing, blockchain systems, AI agents, ML pipelines, and scientific datasets.
-- Designed and built 60+ websites, storefronts, and landing pages across client work and self-initiated builds, including brand sites, ecommerce, and internal business tools.
-- Built production-grade backend systems, including zero-downtime database migrations, crash-safe background job recovery, multi-tenant SCIM/OIDC provisioning, and usage-based billing engines.
-- Shipped AI systems end to end, from an open-source AI chat app on Cloudflare Workers to local LLM fine-tuning pipelines on Apple Silicon, agent authorization with Cedar policies, and permission-aware RAG.
-- Built a Rust image conversion CLI that runs CI for a production site, handling thousands of images.
+- [Published 45+ open-source projects](https://github.com/ranajahanzaib#systems--backend-projects) in Rust, Go, and Python: audit and QA tooling for PostgreSQL, Cloudflare, payments and billing, blockchain systems, AI agents, ML pipelines, and scientific datasets.
+- [Designed and built 60+ websites, storefronts, and landing pages](https://github.com/ranajahanzaib#full-stack-web-projects) across client work and self-initiated builds, including brand sites, ecommerce, and internal business tools.
+- Built production-grade backend systems, including [zero-downtime database migrations](https://github.com/ranajahanzaib/zero-downtime-db-migrations), crash-safe [background job recovery](https://github.com/ranajahanzaib/background-job-recovery), [multi-tenant SCIM/OIDC provisioning](https://github.com/ranajahanzaib/enterprise-user-provisioning), and [usage-based billing](https://github.com/ranajahanzaib/usage-based-billing) engines.
+- Shipped AI systems end to end, from an [open-source AI chat app](https://github.com/ranajahanzaib/waichat) on Cloudflare Workers to local [LLM fine-tuning pipelines](https://github.com/ranajahanzaib?tab=repositories&q=llm+finetuning&type=&language=&sort=) on Apple Silicon, [agent authorization](https://github.com/ranajahanzaib/ai-agent-permission-enforcer) with Cedar policies, and permission-aware RAG.
+- Built a [Rust image conversion CLI](https://github.com/ranajahanzaib/rico) that runs CI for a production site, handling thousands of images.
 - Worked across React, Next.js, TypeScript, Node.js, Rust, Go, and Python, deploying on Cloudflare (Workers, D1, R2), AWS, Firebase, and GCP.
 
 **Lead Frontend Engineer, Züs (0Chain)** · Mar 2022 to Sep 2023<br>
