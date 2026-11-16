@@ -79,7 +79,7 @@ React, Next.js, TypeScript, and Tailwind, deployed on Cloudflare Workers.
 </details>
 
 <details>
-<summary><b>40+ Systems, Backend, & AI Projects</b></summary>
+<summary><b>45+ Systems, Backend, & AI Projects</b></summary>
 <br>
 
 **Core Projects**
