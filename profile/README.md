@@ -1,4 +1,8 @@
-🟢 **Open to work** · [LinkedIn](https://www.linkedin.com/in/workwithrana) · [Email](mailto:work@withrana.com)
+[![Hire me](https://img.shields.io/badge/Open%20to%20work-work%40withrana.com-brightgreen)](mailto:work@withrana.com)
+
+[LinkedIn](https://www.linkedin.com/in/workwithrana) · [Website](https://workwithrana.com)
+
+
 
 ### Senior Full-Stack Engineer | Rust • Go • Python • Node.js • React/Next.js
 
