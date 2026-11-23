@@ -171,7 +171,7 @@ I've published over **65+ open-source projects**.
 
 React, Next.js, TypeScript, and Tailwind, deployed on Cloudflare Workers.
 
-#### Landing Pages & Brand Websites (51)
+### Landing Pages & Brand Websites (51)
 
 **Beauty, Cosmetics & Fragrance (17)**
 
@@ -242,7 +242,7 @@ React, Next.js, TypeScript, and Tailwind, deployed on Cloudflare Workers.
 - [Link in Bio Tool](https://perch-landing-page.preview.withrana.com/)
 - [Dental Clinic](https://meridian-dental-landing-page.preview.withrana.com)
 
-#### Storefronts (10)
+### Storefronts (10)
 
 - [Footwear Shop](https://ferrous-footwear.work.withrana.com/)
 - [Clothing Store](https://meridian-clothing-store.work.withrana.com)
@@ -255,7 +255,7 @@ React, Next.js, TypeScript, and Tailwind, deployed on Cloudflare Workers.
 - [LUME Cosmetics](https://lume.work.withrana.com)
 - [Hair Oil & Serum Store](https://verre-or.work.withrana.com)
 
-#### Websites (4)
+### Websites (4)
 
 - [Seaside Luxury Hotel](https://marejada-seaside-hotel.work.withrana.com)
 - [Y2K Editorial Fashion](https://y2k-editorial-fashion.work.withrana.com)
